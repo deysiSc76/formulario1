@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   const [state, setState] = useState({
-    firsName:"",
+    firstName:"",
     lastName:"",
     email:"",
     password:"",
